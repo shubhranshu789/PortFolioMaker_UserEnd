@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fa4f032f.css",
+    "main.js": "/static/js/main.8cfe35fc.js",
+    "static/js/453.8ab44547.chunk.js": "/static/js/453.8ab44547.chunk.js",
+    "static/media/akash1.png": "/static/media/akash1.05c0a14b263e633ae8af.png",
+    "static/media/akash.png": "/static/media/akash.cfecceab430c05d8e052.png",
+    "static/media/beta.png": "/static/media/beta.6088e47be9827197b68d.png",
+    "static/media/facebook.png": "/static/media/facebook.6c32263e014cae10f012.png",
+    "static/media/social.jpg": "/static/media/social.eccd10af9d6a0a947b16.jpg",
+    "static/media/logo.webp": "/static/media/logo.c5dd5691cca787bfdaff.webp",
+    "static/media/instagram.png": "/static/media/instagram.9f73ecd84f503590957d.png",
+    "static/media/gama.png": "/static/media/gama.72107a35c19e58eba505.png",
+    "static/media/presentation1.JPG": "/static/media/presentation1.0ab7c8ca2b7910331da4.JPG",
+    "static/media/photo.JPG": "/static/media/photo.c83e6d13f8bcb9d01457.JPG",
+    "static/media/alpha.png": "/static/media/alpha.9a955ccbe04f36502d64.png",
+    "static/media/cretives1.JPG": "/static/media/cretives1.2d0b58376215913c4ed2.JPG",
+    "static/media/uidesign1.JPG": "/static/media/uidesign1.67142053c7fcc96248eb.JPG",
+    "static/media/2.JPG": "/static/media/2.af8f00bbaf01a875d418.JPG",
+    "static/media/brand.JPG": "/static/media/brand.00ad45da060b456e975c.JPG",
+    "static/media/Capture.JPG": "/static/media/Capture.2f9829c478f2d75e396e.JPG",
+    "static/media/lion.webp": "/static/media/lion.f8965ed2bd5ccdb9a26c.webp",
+    "static/media/linkedIn.png": "/static/media/linkedIn.712c4ce3d6be06644d11.png",
+    "static/media/akashLogo.JPG": "/static/media/akashLogo.6c8c44669ebcebced5c6.JPG",
+    "index.html": "/index.html",
+    "main.fa4f032f.css.map": "/static/css/main.fa4f032f.css.map",
+    "main.8cfe35fc.js.map": "/static/js/main.8cfe35fc.js.map",
+    "453.8ab44547.chunk.js.map": "/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa4f032f.css",
+    "static/js/main.8cfe35fc.js"
+  ]
+}
